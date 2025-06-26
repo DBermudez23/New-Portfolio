@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&family=Outfit:wght@100..900&display=swap');
+@theme {
+  --color-neon-green: #A4EA08;
+  --color-main-blue: #2357FF;
+  --color-dark-blue: #0C163B;
+  --color-hover-blue: #0B173A;
+}
+*{
+  font-family: Jockey One;
+}
