@@ -1,7 +1,7 @@
 import { Route, Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import Inicio from './pages/inicio';
+import Inicio from './pages/Inicio';
 import Proyectos from './pages/Proyectos';
 import Contacto from './pages/Contacto';
 import AcercaDeMi from './pages/acercaDeMi';
