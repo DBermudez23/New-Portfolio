@@ -38,7 +38,7 @@ import Jupyter from './Jupyter.svg';
 import Pandas from './Pandas.svg';
 import Scikit from './Scikit.svg';
 import Seaborn from './Seaborn.svg';
-import TensorFlow from './TensorFlow.svg';
+import TensorFlow from './Tensorflow.svg';
 //ingenieria
 import Diagram from './Diagram.svg';
 import Patrones from './Patrones.svg';
