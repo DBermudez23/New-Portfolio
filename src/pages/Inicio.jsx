@@ -27,7 +27,7 @@ function Inicio() {
           </div>
         </div>
 
-        {/* PARTE DERECHA - IMAGEN */}  
+        {/* PARTE DERECHA - IMAGEN */} 
         <div className="w-full flex justify-center md:justify-end">
           <img
             src={assetsInicio.inicioDev}

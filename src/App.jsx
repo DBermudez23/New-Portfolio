@@ -4,7 +4,7 @@ import Footer from './components/Footer';
 import Inicio from './pages/Inicio';
 import Proyectos from './pages/Proyectos';
 import Contacto from './pages/Contacto';
-import AcercaDeMi from './pages/acercaDeMi';
+import AcercaDeMi from './pages/AcercaDeMi';
 
 function App() {
   return (
