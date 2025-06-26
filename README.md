@@ -1,12 +1,64 @@
-# React + Vite
+# 🌐 Portafolio Web — Daniel Bermúdez
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es mi portafolio personal desarrollado con **React** y **Tailwind CSS**, donde muestro mi perfil profesional como desarrollador full stack, proyectos destacados, habilidades técnicas, tecnologías que domino y formas de contacto.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Versión en línea: [https://portfoliodefdb.netlify.app](https://portfoliodefdb.netlify.app)  
+🎨 Diseño en Figma: [Ver diseño](https://www.figma.com/design/5rM7vTTNB97MGbZm5nOskk/PORTFOLIO?node-id=0-1&t=WnSaACJfHt8iPFoa-1)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tecnologías principales
+
+- ⚛️ React
+- 💨 Tailwind CSS
+- ⚡ Vite
+- 🧭 React Router DOM
+- 🧠 TypeAnimation
+- 🌐 Netlify (deploy)
+
+---
+
+## 🧩 Estructura del proyecto
+
+src/
+│
+├── assets/ → Imágenes, íconos, logos
+├── components/ → Componentes reutilizables (Navbar, SkillBar, etc.)
+├── pages/ → Vistas principales (Inicio, Proyectos, Contacto...)
+├── App.jsx → Rutas y estructura general
+├── main.jsx → Punto de entrada
+└── index.css → Estilos base + Tailwind
+
+
+## 🛠️ Funcionalidades destacadas
+
+- Diseño completamente **responsive**.
+- Animaciones de texto con `TypeAnimation`.
+- Sección de stack tecnológico con barras de habilidad dinámicas.
+- Visualización de proyectos con cards y enlaces a GitHub y despliegues.
+- Página de contacto funcional con accesos a LinkedIn, WhatsApp, Gmail y descarga de CV.
+- Soporte para despliegue continuo en **Netlify**.
+
+---
+
+## 👨‍💻 Sobre mí
+
+Soy estudiante de Ingeniería de Sistemas en la Universidad Tecnológica de Pereira, apasionado por el desarrollo web, la mejora continua y la creación de soluciones funcionales con un enfoque técnico y visual.
+
+📫 Puedes contactarme a través del portafolio:  
+👉 [https://portfoliodefdb.netlify.app](https://portfoliodefdb.netlify.app)
+
+---
+
+## 📂 Instalación local
+
+```
+git clone https://github.com/tuusuario/portafolio-daniel.git
+cd portafolio-daniel
+npm install
+npm run dev
+```
+✅ Licencia
+Este proyecto es de código abierto. Puedes usarlo como base o inspiración para tu propio portafolio dando el crédito correspondiente.
+Diseño original por Daniel Bermúdez en Figma.
