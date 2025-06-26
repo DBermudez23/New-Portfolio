@@ -29,7 +29,7 @@ const buttonContent = {
     icon: assetsContacto.CV,
     texth4: "DESCARGAR CV",
     textp: "DESCARGA MI CURRÍCULUM VITAE",
-    url: "https://drive.google.com/file/d/1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q/view?usp=sharing",
+    url: "https://drive.google.com/file/d/16q7_ynQHkTRPzEfsMmKZmHSzOKtU6tsZ/view?usp=sharing",
   },
 };
 
