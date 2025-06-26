@@ -48,7 +48,7 @@ import Calculo from './Calculo.svg';
 import Electronica from './Electronica.svg';
 import Computador from './Computador.svg';
 //otros 
-import comunicacion from './comunicacion.svg';
+import comunicacion from './Comunicacion.svg';
 import Actitud from './Actitud.svg';
 import Ingles from './Ingles.svg';
 
@@ -63,7 +63,6 @@ import Gmail from './Gmail.svg';
 import LinkedIn from './LinkedIn.svg';
 import WhatsApp from './WhatsApp.svg';
 import CV from './CV.svg';
-import Daniel_B_cvDef from "./Daniel_B_cvDef.pdf";
 
 
 export const assetsInicio = {
@@ -312,6 +311,5 @@ export const assetsContacto = {
     Gmail,
     LinkedIn,
     WhatsApp,
-    CV,
-    Daniel_B_cvDef
+    CV
 };
